@@ -1,0 +1,34 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.charactersList {
+  /* list-style: none; */
+}
+
+.charactersList li {
+  padding: 4px 2px;
+}
+
+.charactersList li span {
+  font-size: 0.6em;
+  color: grey;
+}
+
+.filmsList li {
+  padding: 8px 2px;
+}
+
+.filmsList li h3 {
+  margin: 0 0 16px;
+}
+
+.filmsList li p {
+  margin: 4px 0 12px;
+}
+
+.filmsList li span {
+  font-size: 0.6em;
+  color: grey;
+}
